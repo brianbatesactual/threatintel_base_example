@@ -1,1 +1,1 @@
-This is an add-on powered by the Splunk Add-on Builder and brianbatesactual awesome.
+This is an add-on powered by the Splunk Add-on Builder and brianbatesactual awesomeness.
